@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Form/static/css/main.c7545e98.css",
-    "main.js": "/React-Form/static/js/main.2be94736.js",
+    "main.js": "/React-Form/static/js/main.6eff8d5c.js",
     "static/media/bootstrap-icons.woff?": "/React-Form/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/React-Form/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/React-Form/index.html",
     "main.c7545e98.css.map": "/React-Form/static/css/main.c7545e98.css.map",
-    "main.2be94736.js.map": "/React-Form/static/js/main.2be94736.js.map"
+    "main.6eff8d5c.js.map": "/React-Form/static/js/main.6eff8d5c.js.map"
   },
   "entrypoints": [
     "static/css/main.c7545e98.css",
-    "static/js/main.2be94736.js"
+    "static/js/main.6eff8d5c.js"
   ]
 }
