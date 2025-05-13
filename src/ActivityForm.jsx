@@ -291,7 +291,7 @@
             flexDirection: 'column'
         }}>
             <Form.Group className="mb-3">
-                <Form.Label>Denominación:</Form.Label>
+                <Form.Label>Denominación<span style={{color:'red',}}>*</span></Form.Label>
                 <Form.Control
                     type="text"
                     required
@@ -303,7 +303,7 @@
             <Row className="mb-3">
                 <Col md={6}>
                     <Form.Group controlId="startDate">
-                        <Form.Label>Fecha de Inicio:</Form.Label>
+                        <Form.Label>Fecha de Inicio<span style={{color: 'red',}}>*</span></Form.Label>
                         <Form.Control
                             type="date"
                             required
@@ -314,7 +314,7 @@
                 </Col>
                 <Col md={6}>
                     <Form.Group controlId="endDate">
-                        <Form.Label>Fecha de Fin:</Form.Label>
+                        <Form.Label>Fecha de Fin</Form.Label>
                         <Form.Control
                             type="date"
                             required
